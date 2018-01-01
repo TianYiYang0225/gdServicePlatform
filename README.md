@@ -1,2 +1,3 @@
-# Campus-service
-校园服务平台（耿丹学院版）
+# gdServicePlatform
+耿丹服务平台
+和两位同学共同完成
